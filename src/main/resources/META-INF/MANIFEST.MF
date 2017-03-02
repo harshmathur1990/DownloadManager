@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: com.download
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.download
+Build-Jdk: 1.8
+Built-By: harshmathur.1990
+Created-By: Apache Maven
+Main-Class: com.download.NewMultipleDownloadManager
+Can-Retransform-Classes: true
+Can-Redefine-Classes: true
